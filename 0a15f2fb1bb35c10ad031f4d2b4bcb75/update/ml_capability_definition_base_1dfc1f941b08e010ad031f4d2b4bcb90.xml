@@ -2,7 +2,7 @@
     <ml_capability_definition_base action="INSERT_OR_UPDATE">
         <active>true</active>
         <capability display_value="NLU">b4ddf73453c73300d1dcddeeff7b1288</capability>
-        <current_solution_version>1</current_solution_version>
+        <current_solution_version>2</current_solution_version>
         <dataset_language>en</dataset_language>
         <fields/>
         <filter/>

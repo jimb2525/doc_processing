@@ -5,7 +5,7 @@
         <display_name>NLU for Document Requests</display_name>
         <language>en</language>
         <name>global_0a15f2fb1bb35c10ad031f4d2b4bcb75_f9db9f141b08e010ad031f4d2b4bcb0d</name>
-        <state>Published</state>
+        <state>Trained</state>
         <sys_class_name>sys_nlu_model</sys_class_name>
         <sys_created_by>william.heisler</sys_created_by>
         <sys_created_on>2020-10-20 13:59:45</sys_created_on>
