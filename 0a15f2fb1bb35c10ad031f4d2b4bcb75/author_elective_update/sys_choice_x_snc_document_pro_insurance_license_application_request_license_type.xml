@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="license_type" table="x_snc_document_pro_insurance_license_application_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>license_type</element>
+            <name>x_snc_document_pro_insurance_license_application_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-19 02:14:55</sys_created_on>
+            <sys_id>67e0ffbfdb77145061702c860596190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>license_type</sys_name>
+            <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+            <sys_update_name>sys_choice_x_snc_document_pro_insurance_license_application_request_license_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-19 02:14:55</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>license_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Series 6</label>
+            <language>en</language>
+            <name>x_snc_document_pro_insurance_license_application_request</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-19 02:14:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3d07fbfdb77145061702c86059619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-19 02:14:55</sys_updated_on>
+            <value>series_6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>license_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Series 7</label>
+            <language>en</language>
+            <name>x_snc_document_pro_insurance_license_application_request</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-19 02:15:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd0133ffdb77145061702c86059619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-19 02:15:38</sys_updated_on>
+            <value>series_7</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

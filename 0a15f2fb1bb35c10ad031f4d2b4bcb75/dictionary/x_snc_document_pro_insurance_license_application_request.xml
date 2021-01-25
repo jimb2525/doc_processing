@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Insurance License Application Request" max_length="40" name="x_snc_document_pro_insurance_license_application_request" sizeclass="0" text_index="true" type="collection">
+        <element label="Financial Advisor" max_length="32" name="financial_advisor" reference="sys_user" type="reference"/>
+        <element choice="1" label="License Type" max_length="40" name="license_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Series 6" sequence="100" value="series_6"/>
+                <element inactive_on_update="false" label="Series 7" sequence="200" value="series_7"/>
+            </choice>
+        </element>
+    </element>
+</database>

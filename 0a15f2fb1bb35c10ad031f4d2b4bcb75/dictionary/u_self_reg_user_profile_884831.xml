@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_self_registered_user_profile" label="Self Reg User Profile 884831" max_length="40" name="u_self_reg_user_profile_884831" sizeclass="0" type="collection"/>
+</database>

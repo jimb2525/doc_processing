@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:26:26</sys_created_on>
+        <sys_id>a4ac763bdb33145061702c86059619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_document_pro_complaints.x_snc_document_pro.admin</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_security_acl display_value="x_snc_document_pro_complaints">e0ac763bdb33145061702c86059619d0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a4ac763bdb33145061702c86059619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:26:26</sys_updated_on>
+        <sys_user_role display_value="x_snc_document_pro.admin" name="x_snc_document_pro.admin">103576fb1bb35c10ad031f4d2b4bcbfe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_security_acl_role_a4ac763bdb33145061702c86059619e1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-18 22:26:26</sys_created_on><sys_id>a4ac763bdb33145061702c86059619e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_document_pro_complaints.x_snc_document_pro.admin</sys_name><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_security_acl display_value="x_snc_document_pro_complaints">e0ac763bdb33145061702c86059619d0</sys_security_acl><sys_update_name>sys_security_acl_role_a4ac763bdb33145061702c86059619e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-18 22:26:26</sys_updated_on><sys_user_role display_value="x_snc_document_pro.admin" name="x_snc_document_pro.admin">103576fb1bb35c10ad031f4d2b4bcbfe</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1721801250</payload_hash>
+        <record_name>x_snc_document_pro_complaints.x_snc_document_pro.admin</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:26:26</sys_created_on>
+        <sys_id>2cac763bdb33145061702c86059619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1753dd230b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:26:26</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>24ac763bcf33145064723c22d1ad4de5</update_guid>
+        <update_guid_history>24ac763bcf33145064723c22d1ad4de5:-1721801250</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_document_pro_complaints.x_snc_document_pro.admin">287ffe7fdb33145061702c8605961936</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>75e67e36db0446e08d8834b35aae3b11</sys_id>
+        <sys_metadata>a4ac763bdb33145061702c86059619e1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_document_pro_complaints.x_snc_document_pro.admin</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent display_value="">e0ac763bdb33145061702c86059619d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_a4ac763bdb33145061702c86059619e1</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_a4ac763bdb33145061702c86059619e1">2cac763bdb33145061702c86059619e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

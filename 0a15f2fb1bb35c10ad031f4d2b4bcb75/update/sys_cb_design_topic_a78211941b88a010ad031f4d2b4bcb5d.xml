@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_design_topic">
+    <sys_cb_design_topic action="INSERT_OR_UPDATE">
+        <compiled_topic display_value="Document Review">e38211941b88a010ad031f4d2b4bcb58</compiled_topic>
+        <design_definition>{"type":"FlowTopic","triggers":[{"type":"Trigger","name":"2fb7be76233940cfb4ee757343fa16e8","triggerType":"request","applicability":{"type":"Applicability","mode":"script","value":"true"},"id":"2fb7be76233940cfb4ee757343fa16e8"}],"goals":[{"name":"primary","trigger_id":"2fb7be76233940cfb4ee757343fa16e8","nodes":[{"type":"StartGoal","goal_id":"primary","greeting_msg":{"type":"String","mode":"string","value":""},"id":"eac3c17b23ee4e4dae1c769c48f9f353","name":"Start"},{"type":"TerminateGoal","goal_id":"primary","confirmation_msg":{"type":"String","mode":"string","value":""},"id":"268ff061a1d94ed0b384150b81bfd389","name":"End"},{"type":"LinkOutputPrompt","header":{"type":"String","mode":"string","value":"{{vaInputs.user}}"},"label":{"type":"String","mode":"string","value":""},"url":{"type":"String","mode":"string","value":"https://jbelote10demo.service-now.com/sp?id=sc_cat_item&amp;sys_id=d48be7481b00a010ad031f4d2b4bcbf1"},"link_type":"single","multi_link_script":"","id":"d1413f795bb84975abbd67a63c692484","name":"Document Review Redirect","goal_id":"primary","applicability":{"type":"Applicability","mode":"script","value":"true"}},{"type":"InputPrompt","variable_id":"68b0f658630a4323985afe7cdfb9db1a","message":{"type":"String","mode":"string","value":"gs.getMessageLang(\"Document review\", vaContext.getRequesterLang())"},"acknowledgement":{"type":"String","mode":"string","value":"gs.getMessageLang(\"Click the link below to submit a document.\", vaContext.getRequesterLang())"},"nlu_entity_binding":{"type":"NLUEntityBinding","allow_text_input":true,"use_confirmation_prompt":true},"skippable":{"type":"Applicability","mode":"script","value":"false"},"id":"54de930d41df4e4d9743c3d926775a55","name":"Document Review Process","goal_id":"primary","applicability":{"type":"Applicability","mode":"script","value":"true"},"formatType":"Text","validationScript":""}],"edges":[{"type":"Edge","source_node_id":"d1413f795bb84975abbd67a63c692484","target_node_id":"268ff061a1d94ed0b384150b81bfd389","id":"5fa1ff269cea40f5b48f951094fbd27c"},{"type":"Edge","source_node_id":"eac3c17b23ee4e4dae1c769c48f9f353","target_node_id":"54de930d41df4e4d9743c3d926775a55","id":"7085f28691be4c7db461d0a07caefb6b"},{"type":"Edge","source_node_id":"54de930d41df4e4d9743c3d926775a55","target_node_id":"d1413f795bb84975abbd67a63c692484","id":"fdcff4fd014f4648b241f4aca5d24c69"}],"id":"primary"}],"script_variables":[],"glide_variables":[{"type":"Reference","table":"sys_user","id":"current-user","name":"user","formatType":"text"},{"type":"String","name":"document_review_process","id":"68b0f658630a4323985afe7cdfb9db1a","formatType":"Text","validationScript":""}],"applicability":{"type":"Applicability","mode":"script","value":"true"},"roles":[],"scope":"0a15f2fb1bb35c10ad031f4d2b4bcb75","domain":"global","topic_type":"STANDARD","channels":[],"id":"7a6259541b88a010ad031f4d2b4bcb13","name":"Document Review","key_phrases":["Document Review"],"nlu_provider":"","nlu_model":"","nlu_model_label":"","nlu_intent":"","nlu_intent_label":"","flexible_conversation_switching":false,"design_category":"","library":false,"nluMapping":"[]"}</design_definition>
+        <design_topic_id>7a6259541b88a010ad031f4d2b4bcb13</design_topic_id>
+        <name>Document Review</name>
+        <sys_class_name>sys_cb_design_topic</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 03:59:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a78211941b88a010ad031f4d2b4bcb5d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>FlowTopic</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_cb_design_topic_a78211941b88a010ad031f4d2b4bcb5d</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 18:37:19</sys_updated_on>
+        <type>FlowTopic</type>
+    </sys_cb_design_topic>
+</record_update>

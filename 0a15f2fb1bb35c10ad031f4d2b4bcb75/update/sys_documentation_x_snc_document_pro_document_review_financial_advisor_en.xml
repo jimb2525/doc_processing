@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="financial_advisor" label="Financial Advisor" language="en" table="x_snc_document_pro_document_review">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>financial_advisor</element>
+            <help/>
+            <hint/>
+            <label>Financial Advisor</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <plural>Financial Advisors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 22:17:47</sys_created_on>
+            <sys_id>3daa7e37db33145061702c8605961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Financial Advisor</sys_name>
+            <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_document_pro_document_review_financial_advisor_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 22:17:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="External User Self-Registration" source="com.snc.external_user_self_registration">6628988cdb48245061702c86059619a9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-20 03:40:39</sys_created_on>
+        <sys_id>012e4554db88a45061702c86059619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-20 03:40:39</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

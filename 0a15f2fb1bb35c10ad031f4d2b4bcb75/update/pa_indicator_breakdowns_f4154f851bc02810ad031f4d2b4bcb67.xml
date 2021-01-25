@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="Branch">d9b407851bc02810ad031f4d2b4bcbbb</breakdown>
+        <display>true</display>
+        <indicator display_value="Error Rate">e8740f451bc02810ad031f4d2b4bcb3f</indicator>
+        <order>100</order>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>lauren.mcmanamon</sys_created_by>
+        <sys_created_on>2020-10-22 20:15:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f4154f851bc02810ad031f4d2b4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Branch.Error Rate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_f4154f851bc02810ad031f4d2b4bcb67</sys_update_name>
+        <sys_updated_by>lauren.mcmanamon</sys_updated_by>
+        <sys_updated_on>2020-10-22 20:15:43</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>

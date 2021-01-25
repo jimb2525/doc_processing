@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Document Review">d48be7481b00a010ad031f4d2b4bcbf1</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 03:23:32</sys_created_on>
+        <sys_id>9e3a85941b48a010ad031f4d2b4bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Document Review</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_9e3a85941b48a010ad031f4d2b4bcba7</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 03:23:32</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

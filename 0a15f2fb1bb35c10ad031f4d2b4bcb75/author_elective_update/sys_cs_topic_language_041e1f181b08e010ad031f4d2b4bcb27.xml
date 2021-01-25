@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cs_topic_language">
+    <sys_cs_topic_language action="DELETE">
+        <cs_topic_id display_value="Document Review">441edb181b08e010ad031f4d2b4bcba3</cs_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"variable_name":"document_review","nlu_entity":"document","nlu_entity_label":"document"}]</nlu_entities>
+        <nlu_intent>Document Review</nlu_intent>
+        <nlu_intent_label>Document Review</nlu_intent_label>
+        <nlu_model>global_0a15f2fb1bb35c10ad031f4d2b4bcb75_f9db9f141b08e010ad031f4d2b4bcb0d</nlu_model>
+        <nlu_model_label>NLU for Document Requests</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cs_topic_language</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 14:09:28</sys_created_on>
+        <sys_id>041e1f181b08e010ad031f4d2b4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_cs_topic_language_041e1f181b08e010ad031f4d2b4bcb27</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 14:09:28</sys_updated_on>
+    </sys_cs_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_cs_topic_language_041e1f181b08e010ad031f4d2b4bcb27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cs_topic_language"><sys_cs_topic_language action="INSERT_OR_UPDATE"><cs_topic_id display_value="Document Review">441edb181b08e010ad031f4d2b4bcba3</cs_topic_id><language_code>en</language_code><nlu_entities>[{"variable_name":"document_review","nlu_entity":"document","nlu_entity_label":"document"}]</nlu_entities><nlu_intent>Document Review</nlu_intent><nlu_intent_label>Document Review</nlu_intent_label><nlu_model>global_0a15f2fb1bb35c10ad031f4d2b4bcb75_f9db9f141b08e010ad031f4d2b4bcb0d</nlu_model><nlu_model_label>NLU for Document Requests</nlu_model_label><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cs_topic_language</sys_class_name><sys_created_by>william.heisler</sys_created_by><sys_created_on>2020-10-20 14:09:28</sys_created_on><sys_id>041e1f181b08e010ad031f4d2b4bcb27</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_cs_topic_language_041e1f181b08e010ad031f4d2b4bcb27</sys_update_name><sys_updated_by>william.heisler</sys_updated_by><sys_updated_on>2020-10-20 14:09:28</sys_updated_on></sys_cs_topic_language></record_update>]]></payload>
+        <payload_hash>-916593334</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 14:09:28</sys_created_on>
+        <sys_id>881e1f181b08e010ad031f4d2b4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1754657eb190000001</sys_recorded_at>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 14:09:28</sys_updated_on>
+        <type>CS Topic Language</type>
+        <update_guid>801e1f184d08e010809bd672e0e56d29</update_guid>
+        <update_guid_history>801e1f184d08e010809bd672e0e56d29:-916593334</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-10-21 02:25:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_cs_topic_language">sys_cs_topic_language</sys_db_object>
+        <sys_id>12007c7e9f9443cd865c321942f14e79</sys_id>
+        <sys_metadata>041e1f181b08e010ad031f4d2b4bcb27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_cs_topic_language_041e1f181b08e010ad031f4d2b4bcb27</sys_update_name>
+        <sys_update_version display_value="sys_cs_topic_language_041e1f181b08e010ad031f4d2b4bcb27">881e1f181b08e010ad031f4d2b4bcb29</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-10-21 02:25:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

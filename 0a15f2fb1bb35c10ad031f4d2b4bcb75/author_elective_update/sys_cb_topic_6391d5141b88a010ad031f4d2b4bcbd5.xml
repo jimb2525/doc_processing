@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="DELETE">
+        <applicability/>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description>This will direct a user to the document review record producer</description>
+        <flexible_conversation_switching>true</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.21","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"939c62ff50d94f768f5e7dbbd898aeb9":{"id":"939c62ff50d94f768f5e7dbbd898aeb9","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"cf4c83e43fc141a88c9b018763d1101d":{"id":"cf4c83e43fc141a88c9b018763d1101d","stepType":"CustomOutput","name":"","generateDataFunction":"","messageTranscriptFunction":"","unsupportedDeviceMessage":{"value":"","mode":"simple"},"applicability":{"value":"","mode":"query"}},"6a9fba3d282145609ee5ceb71eb21d7b":{"id":"6a9fba3d282145609ee5ceb71eb21d7b","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"4ba17442ae6a41cba758ed76b259e8a6","edgeType":"Edge","source":"939c62ff50d94f768f5e7dbbd898aeb9","target":"cf4c83e43fc141a88c9b018763d1101d","sourcePort":"","targetPort":""},{"id":"b7fe949f1ad64269891187671ea45357","edgeType":"Edge","source":"cf4c83e43fc141a88c9b018763d1101d","target":"6a9fba3d282145609ee5ceb71eb21d7b","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases/>
+        <library>true</library>
+        <live_agent>false</live_agent>
+        <name>Document Review</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 03:55:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6391d5141b88a010ad031f4d2b4bcbd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Review</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_cb_topic_6391d5141b88a010ad031f4d2b4bcbd5</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 03:55:51</sys_updated_on>
+        <type>CUSTOM_OUTPUT</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="DELETE" query="document_key=6391d5141b88a010ad031f4d2b4bcbd5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_cb_topic_6391d5141b88a010ad031f4d2b4bcbd5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability/><category/><channels/><connect_queue/><description>This will direct a user to the document review record producer</description><flexible_conversation_switching>true</flexible_conversation_switching><graph>{"graph_api_version":"1.0.21","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"939c62ff50d94f768f5e7dbbd898aeb9":{"id":"939c62ff50d94f768f5e7dbbd898aeb9","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"cf4c83e43fc141a88c9b018763d1101d":{"id":"cf4c83e43fc141a88c9b018763d1101d","stepType":"CustomOutput","name":"","generateDataFunction":"","messageTranscriptFunction":"","unsupportedDeviceMessage":{"value":"","mode":"simple"},"applicability":{"value":"","mode":"query"}},"6a9fba3d282145609ee5ceb71eb21d7b":{"id":"6a9fba3d282145609ee5ceb71eb21d7b","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"4ba17442ae6a41cba758ed76b259e8a6","edgeType":"Edge","source":"939c62ff50d94f768f5e7dbbd898aeb9","target":"cf4c83e43fc141a88c9b018763d1101d","sourcePort":"","targetPort":""},{"id":"b7fe949f1ad64269891187671ea45357","edgeType":"Edge","source":"cf4c83e43fc141a88c9b018763d1101d","target":"6a9fba3d282145609ee5ceb71eb21d7b","sourcePort":"","targetPort":""}]}}}</graph><key_phrases/><library>true</library><live_agent>false</live_agent><name>Document Review</name><nlu_intent/><nlu_intent_label/><nlu_model/><nlu_model_label/><nlu_provider/><roles/><source_topic_id/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>william.heisler</sys_created_by><sys_created_on>2020-10-20 03:55:51</sys_created_on><sys_domain>global</sys_domain><sys_id>6391d5141b88a010ad031f4d2b4bcbd5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Document Review</sys_name><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_cb_topic_6391d5141b88a010ad031f4d2b4bcbd5</sys_update_name><sys_updated_by>william.heisler</sys_updated_by><sys_updated_on>2020-10-20 03:55:51</sys_updated_on><type>CUSTOM_OUTPUT</type><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=6391d5141b88a010ad031f4d2b4bcbd5"/></record_update>]]></payload>
+        <payload_hash>-1646898619</payload_hash>
+        <record_name>Document Review</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 03:55:52</sys_created_on>
+        <sys_id>c0a119141b88a010ad031f4d2b4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1754426280a0000001</sys_recorded_at>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 03:55:52</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>c8a119140e88a0100206a5cfc2d7a549</update_guid>
+        <update_guid_history>c8a119140e88a0100206a5cfc2d7a549:-1646898619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 03:56:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic">sys_cb_topic</sys_db_object>
+        <sys_id>6566904d8de64d54be513212c03d7789</sys_id>
+        <sys_metadata>6391d5141b88a010ad031f4d2b4bcbd5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Review</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_6391d5141b88a010ad031f4d2b4bcbd5</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_6391d5141b88a010ad031f4d2b4bcbd5">c0a119141b88a010ad031f4d2b4bcb4a</sys_update_version>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 03:56:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

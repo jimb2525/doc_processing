@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="New Button (Complaints)">d40db67bdb33145061702c8605961926</button>
+        <item_parameter display_value="Complaints priority">1c0db67bdb33145061702c8605961918</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:28:04</sys_created_on>
+        <sys_id>500db67bdb33145061702c8605961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1c0db67bdb33145061702c8605961918</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_500db67bdb33145061702c8605961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:28:04</sys_updated_on>
+        <ui_parameter display_value="Priority">1c0db67bdb33145061702c8605961927</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_sg_action_param_map_500db67bdb33145061702c8605961963</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="New Button (Complaints)">d40db67bdb33145061702c8605961926</button><item_parameter display_value="Complaints priority">1c0db67bdb33145061702c8605961918</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-18 22:28:04</sys_created_on><sys_id>500db67bdb33145061702c8605961963</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1c0db67bdb33145061702c8605961918</sys_name><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_sg_action_param_map_500db67bdb33145061702c8605961963</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-18 22:28:04</sys_updated_on><ui_parameter display_value="Priority">1c0db67bdb33145061702c8605961927</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>2082075595</payload_hash>
+        <record_name>1c0db67bdb33145061702c8605961918</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:28:08</sys_created_on>
+        <sys_id>6d0df67bdb33145061702c86059619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1753dd3c00a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:28:08</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>e50df67b3d3314502b5add629759d5c3</update_guid>
+        <update_guid_history>e50df67b3d3314502b5add629759d5c3:2082075595</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>426ebad879a544ff908a1355d4485541</sys_id>
+        <sys_metadata>500db67bdb33145061702c8605961963</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1c0db67bdb33145061702c8605961918</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_500db67bdb33145061702c8605961963</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_500db67bdb33145061702c8605961963">6d0df67bdb33145061702c86059619c3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

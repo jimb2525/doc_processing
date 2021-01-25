@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Processor Dashboard - New Tab">4d31f89d1b4c2810ad031f4d2b4bcb55</canvas_page>
+        <name>Processor Dashboard - New Tab</name>
+        <page display_value="PA Processor Dashboard - New Tab">c131f89d1b4c2810ad031f4d2b4bcb54</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:08:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0531f89d1b4c2810ad031f4d2b4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Processor Dashboard - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>pa_tabs_0531f89d1b4c2810ad031f4d2b4bcb58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:08:09</sys_updated_on>
+    </pa_tabs>
+</record_update>

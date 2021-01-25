@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="DELETE">
+        <active>true</active>
+        <applicability>any</applicability>
+        <applicable_page/>
+        <attrs/>
+        <children/>
+        <component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Document Processing Landing Page</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:15:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7b23c511b8c2810ad031f4d2b4bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Processing Landing Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_a7b23c511b8c2810ad031f4d2b4bcbf4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:15:15</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="DELETE" query="document_key=a7b23c511b8c2810ad031f4d2b4bcbf4"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>a7b23c511b8c2810ad031f4d2b4bcbf4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:15:15</sys_created_on>
+        <sys_id>c9d2bc511b8c2810ad031f4d2b4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:15:15</sys_updated_on>
+        <value/>
+        <variable display_value="">74b9169e67a0330075e8ebc172415a1f</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_ux_custom_content_root_elem_a7b23c511b8c2810ad031f4d2b4bcbf4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem"><sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE"><active>true</active><applicability>any</applicability><applicable_page/><attrs/><children/><component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component><is_root>true</is_root><layout/><macroponent/><macroponent_config/><name>Document Processing Landing Page</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent/><parent_slot/><picker/><picker_condition/><placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder><sys_class_name>sys_ux_custom_content_root_elem</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 04:15:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7b23c511b8c2810ad031f4d2b4bcbf4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Document Processing Landing Page</sys_name><sys_overrides/><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_ux_custom_content_root_elem_a7b23c511b8c2810ad031f4d2b4bcbf4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 04:15:15</sys_updated_on><tree_root/></sys_ux_custom_content_root_elem><sys_variable_value action="delete_multiple" query="document_key=a7b23c511b8c2810ad031f4d2b4bcbf4"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_custom_content_root_elem</document><document_key>a7b23c511b8c2810ad031f4d2b4bcbf4</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 04:15:15</sys_created_on><sys_id>c9d2bc511b8c2810ad031f4d2b4bcb6f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 04:15:15</sys_updated_on><value/><variable display_value="">74b9169e67a0330075e8ebc172415a1f</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-801350976</payload_hash>
+        <record_name>Document Processing Landing Page</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:15:15</sys_created_on>
+        <sys_id>c9d2bc511b8c2810ad031f4d2b4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17553aafa4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:15:15</sys_updated_on>
+        <type>UX Custom Content Extension</type>
+        <update_guid>c1d2bc511b8c2810372e2a16f42cbc72</update_guid>
+        <update_guid_history>c1d2bc511b8c2810372e2a16f42cbc72:-801350976</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:15:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_custom_content_root_elem">sys_ux_custom_content_root_elem</sys_db_object>
+        <sys_id>4fd96063a7244c0ab31faa1f72c7cee4</sys_id>
+        <sys_metadata>a7b23c511b8c2810ad031f4d2b4bcbf4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Processing Landing Page</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_ux_custom_content_root_elem_a7b23c511b8c2810ad031f4d2b4bcbf4</sys_update_name>
+        <sys_update_version display_value="sys_ux_custom_content_root_elem_a7b23c511b8c2810ad031f4d2b4bcbf4">c9d2bc511b8c2810ad031f4d2b4bcb72</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:15:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Processor Dashboard - New Tab">4d31f89d1b4c2810ad031f4d2b4bcb55</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_widget>
+        <posx>0</posx>
+        <posy>20</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+        <sys_id>e65130dd1b4c2810ad031f4d2b4bcbe7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>4d31f89d1b4c2810ad031f4d2b4bcb55</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_e65130dd1b4c2810ad031f4d2b4bcbe7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
