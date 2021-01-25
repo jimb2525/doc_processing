@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="DELETE">
+        <condition_order/>
+        <datasource_table>x_snc_document_pro_complaints</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Complaints Form Screen">180db67bdb33145061702c860596190a</embedded_screen>
+        <item_view/>
+        <name>Complaints master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:28:04</sys_created_on>
+        <sys_id>500db67bdb33145061702c8605961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complaints master_item</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_sg_master_item_500db67bdb33145061702c8605961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:28:04</sys_updated_on>
+    </sys_sg_master_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_sg_master_item_500db67bdb33145061702c8605961910</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item"><sys_sg_master_item action="INSERT_OR_UPDATE"><condition_order/><datasource_table>x_snc_document_pro_complaints</datasource_table><datasource_table_condition/><embedded_screen display_value="Complaints Form Screen">180db67bdb33145061702c860596190a</embedded_screen><item_view/><name>Complaints master_item</name><sys_class_name>sys_sg_master_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-18 22:28:04</sys_created_on><sys_id>500db67bdb33145061702c8605961910</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Complaints master_item</sys_name><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_sg_master_item_500db67bdb33145061702c8605961910</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-18 22:28:04</sys_updated_on></sys_sg_master_item></record_update>]]></payload>
+        <payload_hash>-598877545</payload_hash>
+        <record_name>Complaints master_item</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:49</sys_created_on>
+        <sys_id>427f72bfdb33145061702c8605961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1753ddd87bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:49</sys_updated_on>
+        <type>Master Item</type>
+        <update_guid>ed0df67ba3331450c49c001739d2cde8</update_guid>
+        <update_guid_history>ed0df67ba3331450c49c001739d2cde8:986938552,ed0df67ba3331450c49c001739d2cde8:986938552</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_master_item">sys_sg_master_item</sys_db_object>
+        <sys_id>1af2d758e8d749e0873e0b7a65732c40</sys_id>
+        <sys_metadata>500db67bdb33145061702c8605961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complaints master_item</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_sg_master_item_500db67bdb33145061702c8605961910</sys_update_name>
+        <sys_update_version display_value="sys_sg_master_item_500db67bdb33145061702c8605961910">427f72bfdb33145061702c8605961982</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="DELETE">
+        <active>true</active>
+        <category display_value="Complaints">7aec727bdb33145061702c86059619b3</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>400</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:27:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6ec727bdb33145061702c86059619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_aw_list_f6ec727bdb33145061702c86059619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:27:40</sys_updated_on>
+        <table>x_snc_document_pro_complaints</table>
+        <title>All</title>
+        <workspace display_value="Document Processing">4bdcfa3bdb33145061702c86059619ec</workspace>
+    </sys_aw_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_aw_list_f6ec727bdb33145061702c86059619ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list"><sys_aw_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="Complaints">7aec727bdb33145061702c86059619b3</category><columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns><condition/><groups/><list_attributes/><order>400</order><roles/><sys_class_name>sys_aw_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-18 22:27:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f6ec727bdb33145061702c86059619ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_aw_list_f6ec727bdb33145061702c86059619ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-18 22:27:40</sys_updated_on><table>x_snc_document_pro_complaints</table><title>All</title><workspace display_value="Document Processing">4bdcfa3bdb33145061702c86059619ec</workspace></sys_aw_list></record_update>]]></payload>
+        <payload_hash>-942206016</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:27:41</sys_created_on>
+        <sys_id>beec727bdb33145061702c86059619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1753dd3534d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:27:41</sys_updated_on>
+        <type>Workspace List</type>
+        <update_guid>b6ec727b3a331450ce62c005f947fdbb</update_guid>
+        <update_guid_history>b6ec727b3a331450ce62c005f947fdbb:-942206016</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_list">sys_aw_list</sys_db_object>
+        <sys_id>e835ed186a2846a9a58a61d26b196ed1</sys_id>
+        <sys_metadata>f6ec727bdb33145061702c86059619ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_aw_list_f6ec727bdb33145061702c86059619ba</sys_update_name>
+        <sys_update_version display_value="sys_aw_list_f6ec727bdb33145061702c86059619ba">beec727bdb33145061702c86059619bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

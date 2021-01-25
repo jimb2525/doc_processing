@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_document_pro_document_review" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_snc_document_pro_document_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>william.heisler</sys_created_by>
+            <sys_created_on>2020-10-19 21:43:16</sys_created_on>
+            <sys_id>bd5c7bc01b80a010ad031f4d2b4bcb20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+            <sys_update_name>sys_choice_x_snc_document_pro_document_review_state</sys_update_name>
+            <sys_updated_by>william.heisler</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:43:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>william.heisler</sys_created_by>
+            <sys_created_on>2020-10-19 21:44:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb7c7fc01b80a010ad031f4d2b4bcbaf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>william.heisler</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:44:40</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Document</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>william.heisler</sys_created_by>
+            <sys_created_on>2020-10-19 21:45:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0bcf3041b80a010ad031f4d2b4bcb34</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>alexander.sobolev</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:49:37</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending QC Decision</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>william.heisler</sys_created_by>
+            <sys_created_on>2020-10-19 21:43:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba3c3bc01b80a010ad031f4d2b4bcbb0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>alexander.sobolev</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:49:45</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QC</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>william.heisler</sys_created_by>
+            <sys_created_on>2020-10-19 21:43:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc6c3bc01b80a010ad031f4d2b4bcb19</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>alexander.sobolev</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:49:47</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>william.heisler</sys_created_by>
+            <sys_created_on>2020-10-19 21:47:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b93dff041b80a010ad031f4d2b4bcb5d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>alexander.sobolev</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:49:50</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>alexander.sobolev</sys_created_by>
+            <sys_created_on>2020-10-19 21:47:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a15db344db80a45061702c8605961991</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>alexander.sobolev</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:49:53</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_snc_document_pro_document_review</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>alexander.sobolev</sys_created_by>
+            <sys_created_on>2020-10-19 21:48:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>729d3744db80a45061702c8605961975</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>alexander.sobolev</sys_updated_by>
+            <sys_updated_on>2020-10-19 21:49:56</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

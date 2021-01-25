@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Document Review)">180d767bdb33145061702c86059619e5</button>
+        <item_parameter display_value="Document Review company">540d767bdb33145061702c86059619df</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:28:03</sys_created_on>
+        <sys_id>980d767bdb33145061702c86059619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>540d767bdb33145061702c86059619df</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_980d767bdb33145061702c86059619fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:28:03</sys_updated_on>
+        <ui_parameter display_value="Company">d80d767bdb33145061702c86059619ef</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

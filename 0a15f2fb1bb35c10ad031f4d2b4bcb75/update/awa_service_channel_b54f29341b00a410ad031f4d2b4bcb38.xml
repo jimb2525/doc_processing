@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_service_channel">
+    <awa_service_channel action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced_condition>false</advanced_condition>
+        <assign_to_field>assigned_to</assign_to_field>
+        <assignment_group_field>assignment_group</assignment_group_field>
+        <condition/>
+        <default_capacity>20</default_capacity>
+        <default_size>1</default_size>
+        <description>Service Channel for Document Review</description>
+        <name>Document Review</name>
+        <order>1</order>
+        <sys_class_name>awa_service_channel</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-21 19:23:36</sys_created_on>
+        <sys_id>b54f29341b00a410ad031f4d2b4bcb38</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Document Review</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>awa_service_channel_b54f29341b00a410ad031f4d2b4bcb38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 12:49:53</sys_updated_on>
+        <type/>
+        <utilization_condition/>
+        <workitem_table>x_snc_document_pro_document_review</workitem_table>
+    </awa_service_channel>
+</record_update>

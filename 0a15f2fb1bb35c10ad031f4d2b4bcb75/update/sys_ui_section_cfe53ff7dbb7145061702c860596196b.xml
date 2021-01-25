@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="cfe53ff7dbb7145061702c860596196b" sys_domain="global" table="x_snc_document_pro_document_review" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>a5344fbf1b58a410ad031f4d2b4bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>1</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>61344fbf1b58a410ad031f4d2b4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>e5344fbf1b58a410ad031f4d2b4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>6d344fbf1b58a410ad031f4d2b4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_number</element>
+            <position>4</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>e1344fbf1b58a410ad031f4d2b4bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_type</element>
+            <position>5</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>69344fbf1b58a410ad031f4d2b4bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_action</element>
+            <position>6</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>ed344fbf1b58a410ad031f4d2b4bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_owner</element>
+            <position>7</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>65344fbf1b58a410ad031f4d2b4bcb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>financial_advisor</element>
+            <position>8</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>e9344fbf1b58a410ad031f4d2b4bcb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>9</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>61344fbf1b58a410ad031f4d2b4bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>10</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>e5344fbf1b58a410ad031f4d2b4bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_worked</element>
+            <position>11</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>6d344fbf1b58a410ad031f4d2b4bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>12</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2020-11-12 19:30:56</sys_created_on>
+            <sys_id>e1344fbf1b58a410ad031f4d2b4bcb49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_document_pro_document_review" sys_domain="global" view="28b85516db36101061702c86059619c6">cfe53ff7dbb7145061702c860596196b</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2020-11-12 19:30:56</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_document_pro_document_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-19 02:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfe53ff7dbb7145061702c860596196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_document_pro_document_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+            <sys_update_name>sys_ui_section_cfe53ff7dbb7145061702c860596196b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-19 02:36:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">28b85516db36101061702c86059619c6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

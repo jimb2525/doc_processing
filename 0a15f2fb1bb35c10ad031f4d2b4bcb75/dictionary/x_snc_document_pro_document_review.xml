@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Document Review" max_length="40" name="x_snc_document_pro_document_review" sizeclass="42" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Account Action" max_length="40" name="account_action" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Close Account" value="close_account"/>
+                <element inactive_on_update="false" label="Create Account" value="create_account"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Account Owner" max_length="32" name="account_owner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Account Type" max_length="40" name="account_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="401k" value="401k"/>
+                <element inactive_on_update="false" label="525" value="525"/>
+                <element inactive_on_update="false" label="Brokerage" value="brokerage"/>
+                <element inactive_on_update="false" label="Checking" value="checking"/>
+                <element inactive_on_update="false" label="IRA" value="ira"/>
+                <element inactive_on_update="false" label="Savings" value="savings"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Branch Number" max_length="40" name="branch_number" type="string"/>
+        <element attributes="encode_utf8=false" label="Financial Advisor" max_length="32" name="financial_advisor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Class Code" max_length="40" name="u_account_class_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Close Date" max_length="40" name="u_account_close_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Open Date" max_length="40" name="u_account_open_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Registration" max_length="40" name="u_account_registration" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth Date" max_length="40" name="u_birth_date" type="glide_date"/>
+        <element label="Is Client Document" max_length="40" name="u_client_document" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Client Name" max_length="40" name="u_client_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country Code" max_length="40" name="u_country_code" type="string"/>
+        <element label="FA Number" max_length="40" name="u_fa_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="OCR_Birth_Date" max_length="40" name="u_ocr_birth_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="OCR Client Name" max_length="40" name="u_ocr_client_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OCR Social Security Number" max_length="40" name="u_social_security_number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_queue_item_sorting">
+    <awa_queue_item_sorting action="INSERT_OR_UPDATE">
+        <field>sys_created_on</field>
+        <order>1000</order>
+        <queue display_value="Operations Processing">5a9fed341b00a410ad031f4d2b4bcbe4</queue>
+        <sort_direction>ascending</sort_direction>
+        <sys_class_name>awa_queue_item_sorting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-21 19:28:27</sys_created_on>
+        <sys_id>aaa0b9b41b00a410ad031f4d2b4bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>awa_queue_item_sorting_aaa0b9b41b00a410ad031f4d2b4bcbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-21 19:28:27</sys_updated_on>
+    </awa_queue_item_sorting>
+</record_update>

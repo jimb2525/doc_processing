@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>400</order>
+        <question display_value="Please select the applicable Account Type:">f21fa7cc1b00a010ad031f4d2b4bcb0a</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-19 20:48:11</sys_created_on>
+        <sys_id>f3af27001b40a010ad031f4d2b4bcb2d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Savings</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>question_choice_f3af27001b40a010ad031f4d2b4bcb2d</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-19 20:50:32</sys_updated_on>
+        <text>Savings</text>
+        <value>savings</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f3af27001b40a010ad031f4d2b4bcb2d"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>f3af27001b40a010ad031f4d2b4bcb2d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-19 20:48:11</sys_created_on>
+        <sys_id>8bbfe7001b40a010ad031f4d2b4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-19 20:48:11</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>f3af27001b40a010ad031f4d2b4bcb2d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-19 20:48:11</sys_created_on>
+        <sys_id>c3bf67001b40a010ad031f4d2b4bcbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-19 20:48:11</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

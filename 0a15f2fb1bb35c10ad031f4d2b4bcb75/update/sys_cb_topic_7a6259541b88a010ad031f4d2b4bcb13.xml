@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{
+  "graph_api_version": "1.0.21",
+  "goals": {
+    "primary": {
+      "id": "primary",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "eac3c17b23ee4e4dae1c769c48f9f353": {
+          "id": "eac3c17b23ee4e4dae1c769c48f9f353",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "268ff061a1d94ed0b384150b81bfd389": {
+          "id": "268ff061a1d94ed0b384150b81bfd389",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "d1413f795bb84975abbd67a63c692484": {
+          "id": "d1413f795bb84975abbd67a63c692484",
+          "stepType": "LinkOutput",
+          "name": "Document Review Redirect",
+          "url": {
+            "value": "https://jbelote10demo.service-now.com/sp?id=sc_cat_item&amp;sys_id=d48be7481b00a010ad031f4d2b4bcbf1",
+            "mode": "simple"
+          },
+          "label": {
+            "value": "",
+            "mode": "simple"
+          },
+          "header": {
+            "value": "{{vaInputs.user}}",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "linkType": "single",
+          "introMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "listOfLinks": ""
+        },
+        "54de930d41df4e4d9743c3d926775a55": {
+          "id": "54de930d41df4e4d9743c3d926775a55",
+          "stepType": "Prompt",
+          "name": "Document Review Process",
+          "prompt": {
+            "value": "Document review",
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "Click the link below to submit a document.",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "skippable": {
+            "value": "",
+            "mode": "query"
+          },
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "withNluUserInput": true,
+          "skipIfFulfilled": false,
+          "variableId": "68b0f658630a4323985afe7cdfb9db1a",
+          "inputType": {
+            "format": "Text",
+            "script": ""
+          }
+        }
+      },
+      "edges": [
+        {
+          "id": "5fa1ff269cea40f5b48f951094fbd27c",
+          "edgeType": "Edge",
+          "source": "d1413f795bb84975abbd67a63c692484",
+          "target": "268ff061a1d94ed0b384150b81bfd389",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "7085f28691be4c7db461d0a07caefb6b",
+          "edgeType": "Edge",
+          "source": "eac3c17b23ee4e4dae1c769c48f9f353",
+          "target": "54de930d41df4e4d9743c3d926775a55",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "fdcff4fd014f4648b241f4aca5d24c69",
+          "edgeType": "Edge",
+          "source": "54de930d41df4e4d9743c3d926775a55",
+          "target": "d1413f795bb84975abbd67a63c692484",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "variables": {
+    "current-user": {
+      "category": "vaInputs",
+      "id": "current-user",
+      "label": "User",
+      "name": "user",
+      "table": "sys_user",
+      "varType": "reference"
+    },
+    "68b0f658630a4323985afe7cdfb9db1a": {
+      "id": "68b0f658630a4323985afe7cdfb9db1a",
+      "name": "document_review_process",
+      "label": "Document Review Process",
+      "varType": "string",
+      "category": "vaInputs"
+    }
+  }
+}</graph>
+        <key_phrases>Document Review</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>Document Review</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 03:59:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7a6259541b88a010ad031f4d2b4bcb13</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Document Review</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_cb_topic_7a6259541b88a010ad031f4d2b4bcb13</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 18:37:17</sys_updated_on>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=7a6259541b88a010ad031f4d2b4bcb13"/>
+</record_update>

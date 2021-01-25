@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_model_sys_entity">
+    <m2m_sys_nlu_model_sys_entity action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <model display_value="NLU for Document Requests">f9db9f141b08e010ad031f4d2b4bcb0d</model>
+        <sys_class_name>m2m_sys_nlu_model_sys_entity</sys_class_name>
+        <sys_created_by>william.heisler</sys_created_by>
+        <sys_created_on>2020-10-20 13:59:45</sys_created_on>
+        <sys_entity display_value="TIME">37ef25c8777723005d7b3882a9106163</sys_entity>
+        <sys_id>f9db9f141b08e010ad031f4d2b4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NLU for Document Requests.TIME</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>m2m_sys_nlu_model_sys_entity_f9db9f141b08e010ad031f4d2b4bcb14</sys_update_name>
+        <sys_updated_by>william.heisler</sys_updated_by>
+        <sys_updated_on>2020-10-20 13:59:45</sys_updated_on>
+    </m2m_sys_nlu_model_sys_entity>
+</record_update>

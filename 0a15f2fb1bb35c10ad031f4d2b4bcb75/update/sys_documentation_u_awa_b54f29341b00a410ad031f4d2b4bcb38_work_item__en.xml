@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="AWA Document Review Work Item" language="en" table="u_awa_b54f29341b00a410ad031f4d2b4bcb38_work_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>AWA Document Review Work Item</label>
+            <language>en</language>
+            <name>u_awa_b54f29341b00a410ad031f4d2b4bcb38_work_item</name>
+            <plural>AWA Document Review Work Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-21 19:23:37</sys_created_on>
+            <sys_id>f38fad341b00a410ad031f4d2b4bcb26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AWA Document Review Work Item</sys_name>
+            <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+            <sys_update_name>sys_documentation_u_awa_b54f29341b00a410ad031f4d2b4bcb38_work_item__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-21 19:23:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

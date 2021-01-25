@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"studio_template_field_id":"E1","BackgroundColor":"#f1f1f1","Text":"","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"TextColor":"#293e40","CornerRadius":2,"CellId":"state","MaxLines":1,"TextAlignment":"Center","Type":"Text"}],"Alignment":"Left","Distribution":"Auto","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"studio_template_field_id":"E2","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","CellId":"number","MaxLines":1,"TextAlignment":"Right","Type":"Text"}],"Alignment":"Right","Distribution":"Auto","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Distribution":"Equal","Orientation":"Horizontal","Type":"ViewGroup"},{"studio_template_field_id":"E3","Text":"","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","CellId":"short_description","MaxLines":2,"TextAlignment":"Left","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"studio_template_field_id":"E4","studio_template_is_label":true,"Text":"${opened_by}","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","MaxLines":1,"TextAlignment":"Left","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E5","Width":22,"Height":22,"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","Margin":{"Right":6},"Type":"Image"},{"studio_template_field_id":"E4","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","CellId":"opened_by","MaxLines":1,"TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Distribution":"Auto","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"studio_template_field_id":"E6","studio_template_is_label":true,"Text":"${priority}","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","MaxLines":1,"TextAlignment":"Left","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E6","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","CellId":"priority","MaxLines":1,"TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Distribution":"Auto","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Distribution":"Auto","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Distribution":"Auto","Orientation":"Vertical","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>Complaints List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:28:03</sys_created_on>
+        <sys_id>d40db67bdb33145061702c8605961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complaints List Screen Item View</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_sg_item_view_d40db67bdb33145061702c8605961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:28:03</sys_updated_on>
+        <table>x_snc_document_pro_complaints</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="DELETE" query="documentkey=d40db67bdb33145061702c8605961907"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_sg_item_view_d40db67bdb33145061702c8605961907</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields><item_view_json>{"Children":[{"Children":[{"Children":[{"studio_template_field_id":"E1","BackgroundColor":"#f1f1f1","Text":"","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"TextColor":"#293e40","CornerRadius":2,"CellId":"state","MaxLines":1,"TextAlignment":"Center","Type":"Text"}],"Alignment":"Left","Distribution":"Auto","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"studio_template_field_id":"E2","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","CellId":"number","MaxLines":1,"TextAlignment":"Right","Type":"Text"}],"Alignment":"Right","Distribution":"Auto","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Distribution":"Equal","Orientation":"Horizontal","Type":"ViewGroup"},{"studio_template_field_id":"E3","Text":"","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","CellId":"short_description","MaxLines":2,"TextAlignment":"Left","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"studio_template_field_id":"E4","studio_template_is_label":true,"Text":"${opened_by}","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","MaxLines":1,"TextAlignment":"Left","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E5","Width":22,"Height":22,"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","Margin":{"Right":6},"Type":"Image"},{"studio_template_field_id":"E4","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","CellId":"opened_by","MaxLines":1,"TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Distribution":"Auto","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"studio_template_field_id":"E6","studio_template_is_label":true,"Text":"${priority}","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","MaxLines":1,"TextAlignment":"Left","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E6","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","CellId":"priority","MaxLines":1,"TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Distribution":"Auto","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Distribution":"Auto","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Distribution":"Auto","Orientation":"Vertical","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json><name>Complaints List Screen Item View</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-18 22:28:03</sys_created_on><sys_id>d40db67bdb33145061702c8605961907</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Complaints List Screen Item View</sys_name><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_sg_item_view_d40db67bdb33145061702c8605961907</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-18 22:28:03</sys_updated_on><table>x_snc_document_pro_complaints</table><ui_styles/></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=d40db67bdb33145061702c8605961907"/></record_update>]]></payload>
+        <payload_hash>-696790776</payload_hash>
+        <record_name>Complaints List Screen Item View</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:48</sys_created_on>
+        <sys_id>7d7f72bfdb33145061702c8605961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1753ddd84590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:48</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>110df67b4a33145041f388914b37608d</update_guid>
+        <update_guid_history>110df67b4a33145041f388914b37608d:-827262844,110df67b4a33145041f388914b37608d:-827262844</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 22:38:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>0a33d323a10440e581803a80b7e7de91</sys_id>
+        <sys_metadata>d40db67bdb33145061702c8605961907</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complaints List Screen Item View</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_d40db67bdb33145061702c8605961907</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_d40db67bdb33145061702c8605961907">7d7f72bfdb33145061702c8605961932</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 22:38:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

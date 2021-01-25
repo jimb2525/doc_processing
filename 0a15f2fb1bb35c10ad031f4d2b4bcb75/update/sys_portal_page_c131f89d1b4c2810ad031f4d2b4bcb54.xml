@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-25 04:47:46">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:08:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c131f89d1b4c2810ad031f4d2b4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Processor Dashboard - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_portal_page_c131f89d1b4c2810ad031f4d2b4bcb54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:08:09</sys_updated_on>
+        <title>PA Processor Dashboard - New Tab</title>
+        <user/>
+        <view>pa_processor_dashboard_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Processor Dashboard - New Tab">c131f89d1b4c2810ad031f4d2b4bcb54</page>
+                <summary>Document Reviews by Priority</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                <sys_id>29b1f8dd1b4c2810ad031f4d2b4bcb2b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-10-22 23:10:22">29b1f8dd1b4c2810ad031f4d2b4bcb2b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                        <sys_id>29b1f8dd1b4c2810ad031f4d2b4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-10-22 23:10:22">29b1f8dd1b4c2810ad031f4d2b4bcb2b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                        <sys_id>65b1f8dd1b4c2810ad031f4d2b4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-10-22 23:10:22">29b1f8dd1b4c2810ad031f4d2b4bcb2b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                        <sys_id>a1b1f8dd1b4c2810ad031f4d2b4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-10-22 23:10:22">29b1f8dd1b4c2810ad031f4d2b4bcb2b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                        <sys_id>a9b1f8dd1b4c2810ad031f4d2b4bcb2b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                        <value>f99134dd1b4c2810ad031f4d2b4bcb76</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-10-22 23:10:22">29b1f8dd1b4c2810ad031f4d2b4bcb2b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                        <sys_id>e9b1f8dd1b4c2810ad031f4d2b4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                        <value>Document Reviews by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-10-22 23:10:22">29b1f8dd1b4c2810ad031f4d2b4bcb2b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:10:22</sys_created_on>
+                        <sys_id>edb1f8dd1b4c2810ad031f4d2b4bcb2b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:10:22</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Processor Dashboard - New Tab">c131f89d1b4c2810ad031f4d2b4bcb54</page>
+                <summary>Document Reviews by State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                <sys_id>9b0274111b8c2810ad031f4d2b4bcb40</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-10-22 23:11:51">9b0274111b8c2810ad031f4d2b4bcb40</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                        <sys_id>170274111b8c2810ad031f4d2b4bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-10-22 23:11:51">9b0274111b8c2810ad031f4d2b4bcb40</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                        <sys_id>1f0274111b8c2810ad031f4d2b4bcb40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                        <value>dcf1fcdd1b4c2810ad031f4d2b4bcb4b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-10-22 23:11:51">9b0274111b8c2810ad031f4d2b4bcb40</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                        <sys_id>530274111b8c2810ad031f4d2b4bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-10-22 23:11:51">9b0274111b8c2810ad031f4d2b4bcb40</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                        <sys_id>5f0274111b8c2810ad031f4d2b4bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                        <value>Document Reviews by State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-10-22 23:11:51">9b0274111b8c2810ad031f4d2b4bcb40</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                        <sys_id>9b0274111b8c2810ad031f4d2b4bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-10-22 23:11:51">9b0274111b8c2810ad031f4d2b4bcb40</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:11:51</sys_created_on>
+                        <sys_id>d70274111b8c2810ad031f4d2b4bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:11:51</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Processor Dashboard - New Tab">c131f89d1b4c2810ad031f4d2b4bcb54</page>
+                <summary>Document Reviews by Processing Group</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                <sys_id>ae5130dd1b4c2810ad031f4d2b4bcbe4</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                        <sys_id>265130dd1b4c2810ad031f4d2b4bcbe5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                        <value>4e80745d1b4c2810ad031f4d2b4bcb42</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                        <sys_id>265130dd1b4c2810ad031f4d2b4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                        <sys_id>625130dd1b4c2810ad031f4d2b4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                        <sys_id>aa5130dd1b4c2810ad031f4d2b4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                        <value>Document Reviews by Processing Group</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                        <sys_id>ae5130dd1b4c2810ad031f4d2b4bcbe5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-10-22 23:08:48">ae5130dd1b4c2810ad031f4d2b4bcbe4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-10-23 04:08:48</sys_created_on>
+                        <sys_id>e65130dd1b4c2810ad031f4d2b4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-10-23 04:08:48</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="DELETE">
+        <active>true</active>
+        <base_uri>/api/x_snc_document_pro/document_review_get_account</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>Document Review Get Account</name>
+        <namespace>x_snc_document_pro</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>document_review_get_account</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:56:39</sys_created_on>
+        <sys_id>f31c74d1db48a41061702c8605961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Review Get Account</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_update_name>sys_ws_definition_f31c74d1db48a41061702c8605961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:56:39</sys_updated_on>
+    </sys_ws_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</application>
+        <file_path/>
+        <instance_id>e2c19596db7ad4d45749cac505961996</instance_id>
+        <instance_name>jbelote10demo</instance_name>
+        <name>sys_ws_definition_f31c74d1db48a41061702c8605961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_snc_document_pro/document_review_get_account</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>Document Review Get Account</name><namespace>x_snc_document_pro</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>document_review_get_account</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-23 04:56:39</sys_created_on><sys_id>f31c74d1db48a41061702c8605961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Document Review Get Account</sys_name><sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package><sys_policy/><sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope><sys_update_name>sys_ws_definition_f31c74d1db48a41061702c8605961905</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-23 04:56:39</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+        <payload_hash>1348791396</payload_hash>
+        <record_name>Document Review Get Account</record_name>
+        <reverted_from/>
+        <source>4615f2fb1bb35c10ad031f4d2b4bcb7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:56:40</sys_created_on>
+        <sys_id>3f4c78d1db48a41061702c8605961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17553d0e35c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:56:40</sys_updated_on>
+        <type>Scripted REST API</type>
+        <update_guid>f34c78d13e48a410f36b1b52e31fdf82</update_guid>
+        <update_guid_history>f34c78d13e48a410f36b1b52e31fdf82:1348791396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 04:56:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_definition">sys_ws_definition</sys_db_object>
+        <sys_id>3823fd4b1d67479c982b76f31e431e24</sys_id>
+        <sys_metadata>f31c74d1db48a41061702c8605961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Review Get Account</sys_name>
+        <sys_package display_value="Document Processing" source="x_snc_document_pro">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Document Processing">0a15f2fb1bb35c10ad031f4d2b4bcb75</sys_scope>
+        <sys_scope_delete display_value="">2e7186f6f24e406288edc440a932b0a9</sys_scope_delete>
+        <sys_update_name>sys_ws_definition_f31c74d1db48a41061702c8605961905</sys_update_name>
+        <sys_update_version display_value="sys_ws_definition_f31c74d1db48a41061702c8605961905">3f4c78d1db48a41061702c8605961982</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 04:56:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
